@@ -11,7 +11,7 @@
 
 ---
 
-### Online Round (Strategy)
+### Online Round (Strategy) (Got 76% Final Score)
 
 - Platform: [Testdome](https://www.testdome.com/)
 - Duration: 1 hour 40 Minutes
